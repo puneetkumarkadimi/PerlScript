@@ -12,7 +12,8 @@ for(my $i=0; $i < 10; $i++)
 		{
 			for(my $y=0; $y < 10; $y++)
 			{
-				$array[$i][$j][$x][$y]="$i,$j,$x,$y";
+				# Commenting the array fill process
+				#$array[$i][$j][$x][$y]="$i,$j,$x,$y";
 			}
 		}
 	}
